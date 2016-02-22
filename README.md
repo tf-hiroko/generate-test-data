@@ -4,5 +4,5 @@ Creating CSV formatted test data for MySQL database to test my PHP web applicati
 ## CSV format
 URL: https://www.mockaroo.com/
 
-Sample for MySQL: 
+Configuration:
 ![mockaroo screenshott](http://hirokoymj.com/images/mockaroo_test-data-generation_CSV.png)
