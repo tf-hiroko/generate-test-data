@@ -1,7 +1,6 @@
-## Generate Test Data (CSV)
+## Generate Test Data
 
-Creating MySQL test data with CSV format.
-https://www.mockaroo.com/
-
-Test Data Generation Sample:
+## CSV format
+URL: https://www.mockaroo.com/
+Sample for MySQL: 
 ![mockaroo screenshott](http://hirokoymj.com/images/mockaroo_test-data-generation_CSV.png)
