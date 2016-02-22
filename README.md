@@ -1,5 +1,5 @@
 ## Generate Test Data
-Creating CSV format test data for MySQL database to test my PHP web application. Using mockaroon, We can generate 1000 test data in free.
+Creating CSV formatted test data for MySQL database to test my PHP web application. Using mockaroon, We can generate 1000 test data in free.
 
 ## CSV format
 URL: https://www.mockaroo.com/
