@@ -6,3 +6,5 @@ URL: https://www.mockaroo.com/
 
 Configuration:
 ![mockaroo screenshott](http://hirokoymj.com/images/mockaroo_test-data-generation_CSV.png)
+
+## Encryption data in MySQL 
